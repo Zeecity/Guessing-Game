@@ -1,0 +1,11 @@
+Requirements
+1.    welcome message
+2.    Ask for user's name
+3.    "hello user" message
+4.    Ask for permission to start
+5.    Generate a random numer
+6.    Ask the user to guess the number
+7.    If the user is correct congratulate them
+8.    if the user is wrong ask again(5 chances only) until correct
+9.    Tell to guess higher or lower if the number guessed is higher or lower than the random number
+10.   If the user fails 5 times then the game is over
